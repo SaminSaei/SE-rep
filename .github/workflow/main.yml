@@ -1,4 +1,4 @@
-name: SE-repo
+name: SE-rep
 on: push
 
 jobs:
